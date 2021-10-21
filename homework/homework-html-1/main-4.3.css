@@ -1,0 +1,30 @@
+.body{
+    background: gray;
+    width: 500px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tag{
+    width: 450px;
+    margin: 10px;
+}
+.widgets{
+    background: cornflowerblue;
+    height:150px;
+}
+.e{
+    display: flex;
+    flex-direction: row;
+}
+.as{;
+    background: blue;
+    width: 140px;
+    height: 150px;
+    margin: 5px;
+}
+.contact{
+    background: cornflowerblue;
+    height: 350px;
+}

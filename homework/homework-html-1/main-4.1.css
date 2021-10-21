@@ -1,0 +1,21 @@
+.a{
+    width: 700px;
+    height: 500px;
+    background: grey;
+    display: flex;
+    align-items: flex-end;
+}
+
+.box{
+    height: 300px;
+}
+
+.b{
+    background:red;
+    flex-grow: 3;
+}
+.c{
+   background: blue;
+    flex-grow: 1;
+
+}

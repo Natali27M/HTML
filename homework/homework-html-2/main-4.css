@@ -1,0 +1,53 @@
+.display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 2px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.w750 {
+    width: 750px;
+}
+
+.rectangle {
+    height: 650px;
+}
+
+.rectangle_header {
+    background: blue;
+    height: 120px;
+}
+
+.text_color {
+    color: white;
+    font-size: 20px;
+}
+
+.rectangle_nav {
+    background: #122d98;
+}
+
+.h80 {
+    height: 80px;
+}
+
+.h400 {
+    height: 400px;
+}
+
+.middle_main {
+    background: darkturquoise;
+    width: 550px;
+}
+
+.middle_aside {
+    background: darkmagenta;
+    width: 200px;
+}
+
+.rectangle_footer {
+    background: aqua;
+}

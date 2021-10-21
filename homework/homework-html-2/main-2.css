@@ -1,0 +1,49 @@
+.display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 2px;
+    text-align: center;
+}
+.border{
+    border:solid 2px black;
+}
+.w500{
+    width: 500px;
+}
+.w480{
+    width: 480px;
+}
+.h100{
+    height: 100px;
+}
+.body{
+    height: 680px;
+}
+.header{
+    background: #91d38b;
+}
+.middle{
+    height: 435px;
+
+}
+.middle_menu{
+    background: pink;
+    width: 140px;
+    height: 417px;
+}
+.middle_right{
+    width: 340px;
+    height: 430px;
+    justify-content: flex-end;
+
+}
+.post{
+    background: #1a8cc9;
+    width: 320px;
+    height: 200px;
+}
+.footer{
+    background: yellow;
+}

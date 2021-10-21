@@ -1,0 +1,127 @@
+.body{
+    background: gray;
+    width: 500px;
+    height: auto;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.width{
+    width: 470px;
+    margin: 5px;
+}
+.head1{
+    background: #b2e7e7;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.color{
+    background: white;
+    margin: 10px;
+}
+.number1{
+    width: 100px;
+    height: 30px;
+}
+.head3{
+    background: aqua;
+    height: 220px;
+    display: flex;
+    align-items: center;
+}
+.number3{
+    width: 450px;
+    height: 180px;
+}
+.head4{
+    background: cornflowerblue;
+    height: 330px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.number4 {
+    width: 215px;
+    height: 130px;
+}
+.head5{
+    background: blue;
+    height: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.number5{
+    width: 215px;
+    height: 100px;
+}
+.number5a{
+    width: 100px;
+    height: 20px;
+}
+.head6{
+    background: darkblue;
+    height: 310px;
+    display: flex;
+}
+.number6aa{
+    width: 235px;
+    height: 310px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.number6a{
+    background: white;
+    width: 215px;
+    height: 75px;
+    margin: 10px;
+}
+.number6bb{
+    width: 235px;
+    height: 310px;
+    display: flex;
+    align-items: center;
+}
+.number6b{
+    width: 215px;
+    height: 267px;
+}
+.head7{
+    background: black;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.number7aa1{
+    width: 465px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.number7aa2{
+    width: 465px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.number7a{
+    background: white;
+    width: 450px;
+    height: 20px;
+    margin: 5px;
+}
+.number7b{
+    background: white;
+    width: 100px;
+    height: 20px;
+    margin: 5px;
+}
+

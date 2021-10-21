@@ -1,0 +1,44 @@
+.wrap{
+    background: gray;
+    width: 650px;
+    height: 630px;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+}
+.header2{
+    background: blue;
+    width: 600px;
+    height: 150px;
+    margin-top: 10px;
+}
+.ad{
+    width: 600px;
+    height: 75px;
+}
+.nav{
+    background: darkblue;
+}
+.ab{
+    display: flex;
+    flex-direction: row;
+}
+.main1{
+    background: #122d98;
+    width: 350px;
+    height: 300px;
+}
+.aside{
+    background: #020226;
+    width:250px ;
+    height:300px ;
+}
+.footer1{
+    background: aqua;
+}
+
+
+
+
+

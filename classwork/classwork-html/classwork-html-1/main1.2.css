@@ -1,0 +1,38 @@
+.xxx{
+    background: gray;
+    width: 670px;
+    height: 500px;
+    display: flex;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+}
+.aa{
+    background: blue;
+    width: 655px;
+    height: 150px;
+    margin: 5px;
+}
+.v{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.h{
+    background: aqua;
+    width: 155px;
+    height: 320px;
+    margin: 5px;
+
+}
+.leave{
+    width: 500px;
+    height: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.z{
+    background: darkblue;
+    width: 155px;
+    height: 150px;
+    margin: 5px;
+}

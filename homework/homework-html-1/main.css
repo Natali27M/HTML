@@ -1,0 +1,42 @@
+body {
+    background-color: silver;
+}
+
+.name, .type, li {
+    text-align: center;
+}
+
+.name, li {
+    color: #1eaf12;
+}
+
+.name {
+    font-size: xxx-large;
+}
+
+img {
+    border: 20px solid purple;
+    margin: auto;
+    display: block;
+}
+
+p {
+    font-size: larger;
+    background: gold;
+    text-align: justify;
+}
+
+.type {
+    color: purple;
+    font-size: 30px;
+
+}
+
+li {
+    list-style: none;
+    font-size: 20px;
+}
+
+
+
+ 

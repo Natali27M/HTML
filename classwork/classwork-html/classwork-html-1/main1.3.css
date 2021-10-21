@@ -1,0 +1,33 @@
+.yyy{
+    background: gray;
+    width: 450px;
+    height: 700px;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.up{
+    display: flex;
+}
+.e{
+    background: blue;
+    width: 200px;
+    height: 350px;
+    margin: 10px;
+}
+.kabobs{
+    background: aqua;
+    width: 420px;
+    height: 150px;
+
+}
+.down{
+    display: flex;
+}
+.i{
+    background: darkblue;
+    width: 133px;
+    height: 150px;
+    margin: 5px;
+}

@@ -1,0 +1,32 @@
+.main{
+    background: grey;
+    width: 600px;
+    height: auto;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+}
+.b,.a{
+    flex-direction: column;
+}
+.header,.footer{
+    background: greenyellow;
+    width: 580px;
+    height: 150px;
+    margin:  5px;
+}
+.center{
+    display: flex;
+    justify-content: space-evenly;
+}
+.menu{
+    background: pink;
+    width: 230px;
+    height: 350px;
+}
+.post{
+    background: cornflowerblue;
+    height: 170px;
+    width: 330px;
+    margin: 5px;
+}

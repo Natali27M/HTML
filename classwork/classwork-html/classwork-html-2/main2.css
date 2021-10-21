@@ -1,0 +1,54 @@
+.body{
+    height: 1400px;
+}
+.display{
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+.justify{
+    justify-content: center;
+}
+.ai{
+    align-items: center;
+}
+
+.w700{
+    width: 700px;
+}
+.bg-gain{
+    background: gainsboro;
+}
+.bg-cyan{
+    background: cyan;
+}
+.bg-black{
+    background: black;
+}
+.header1{
+    height: 50px;
+    justify-content: flex-end;
+}
+.header-margin{
+    margin-right: 80px;
+}
+.header2{
+    height: 100px;
+    justify-content: space-around;
+}
+.start{
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+}
+.start-text> h3 {
+    font-size: 30px;
+}
+.header3{
+    height: 250px;
+}
+.header3-text{
+    background: #1eaf12;
+    width: 300px;
+    height: 200px;
+}

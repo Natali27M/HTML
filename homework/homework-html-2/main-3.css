@@ -1,0 +1,44 @@
+.display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 2px;
+    text-align: center;
+}
+.w560{
+    width: 560px;
+}
+.box{
+    width: 600px;
+    height: 900px;
+}
+.margin5{
+    margin: 5px;
+}
+.bg-blue{
+    background: blue;
+}
+.box_widgets{
+    height: 200px;
+}
+.color{
+    color: white;
+}
+.fs50{
+    font-size: 40px;
+}
+.fs20{
+    font-size: 20px;
+}
+.center{
+    justify-content: space-between;
+}
+.center_widgets{
+    background: #122d98;
+    width: 180px;
+    height: 230px;
+}
+.contact{
+    height: 430px;
+}
