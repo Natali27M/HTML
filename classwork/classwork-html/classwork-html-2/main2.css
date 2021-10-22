@@ -1,5 +1,5 @@
 .body{
-    height: 1400px;
+    height: auto;
 }
 .display{
     display: flex;
@@ -19,8 +19,8 @@
 .bg-gain{
     background: gainsboro;
 }
-.bg-cyan{
-    background: cyan;
+.bg-deep{
+    background: deepskyblue;
 }
 .bg-black{
     background: black;
@@ -48,7 +48,121 @@
     height: 250px;
 }
 .header3-text{
-    background: #1eaf12;
     width: 300px;
     height: 200px;
+}
+.box-square{
+    height: 280px;
+}
+.border{
+    width: 640px;
+    height: 270px;
+    border: 2px solid deepskyblue;
+    border-radius: 20px;
+}
+.margin2{
+    margin: 2px;
+}
+.border-header{
+    width: 500px;
+    height: 50px;
+}
+.square-name>h3{
+    font-size: 20px;
+}
+.border-box{
+    width: 150px;
+    height: 180px;
+}
+.border-box-square{
+    border-radius: 15px;
+}
+.w140{
+    width: 140px;
+}
+.h120{
+    height: 120px;
+}
+.box-round{
+    height: 280px;
+}
+.box-round-mini{
+    width: 180px;
+    height: 230px;
+    align-content: center;
+}
+.round{
+    width: 120px;
+    border-radius: 50%;
+}
+.round-name{
+    width: 130px;
+    height: 50px;
+    align-content: center;
+}
+.contour{
+    border: 2px solid deepskyblue;
+}
+.screen{
+    height: 900px;
+}
+.screen-name{
+    height: 30px;
+}
+.screen-center{
+    height: 550px;
+}
+
+.screen-border{
+    height: 250px;
+    border: 2px solid deepskyblue;
+    border-radius: 20px;
+}
+.w200{
+    width: 200px;
+}
+.picture{
+    width: 170px;
+    height: 100px;
+    border-radius: 15px;
+    margin: 10px;
+}
+.picture-button{
+    width: 180px;
+    height: 20px;
+    justify-content: space-between;
+}
+hr{
+    border: none;
+    background-color: deepskyblue;
+    width: 200px;
+    height: 2px;
+}
+.button-down{
+    height: 30px;
+    justify-content: space-between;
+}
+.screen-down{
+    background: pink;
+    height: 250px;
+}
+.screen-description{
+    width: 300px;
+    height: 200px;
+}
+.screen-down-text{
+    width: 250px;
+    height: 180px;
+}
+.footer{
+    height: 100px;
+}
+.footer-inside{
+    width: 200px;
+}
+.three-point{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    margin: 5px;
 }
