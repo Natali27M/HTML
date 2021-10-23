@@ -1,0 +1,147 @@
+.body{
+    height: auto;
+}
+.display{
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+.justify{
+    justify-content: center;
+}
+.ai{
+    align-items: center;
+}
+.w700{
+    width: 700px;
+}
+.bg-gain{
+    background: gainsboro;
+}
+.bg-blueviolet{
+    background: blueviolet;
+}
+.bg-black{
+    background: black;
+}
+.margin2{
+    margin: 2px;
+}
+.header-one{
+    height: 50px;
+    justify-content: space-around;
+}
+.header-two{
+    height: 300px;
+}
+.header-two-text{
+    width: 300px;
+    height: 150px;
+    margin-top: 20px;
+}
+.header-two-text h3,.header-two-text h4,.header-two-text h2{
+    color: blueviolet;
+}
+h2,h3,h4{
+    margin: 0;
+}
+.header-two-box-case{
+    height: 150px;
+    position: relative;
+    top: 55px;
+}
+.header-two-square{
+    width: 150px;
+    margin: 5px;
+}
+.h150{
+    height: 150px;
+}
+.br10{
+    border-radius: 10px;
+}
+.body-center{
+    height: auto;
+}
+.block-none{
+    height: 100px;
+}
+.box-square{
+    height: 650px;
+}
+.box-square-header{
+    height: 50px;
+}
+.box-square-mini{
+    width: 150px;
+    height: 180px;
+}
+.square{
+    border-radius: 15px;
+}
+.w120{
+    width: 120px;
+}
+.h120{
+    height: 120px;
+}
+.square-name>h3{
+    font-size: 20px;
+}
+.box-rectangle{
+    height: 700px;
+}
+.box-rectangle-name{
+    height: 50px;
+}
+.box-rectangle-name>h2{
+    font-size: 30px;
+}
+.box-rectangle-mini{
+    width: 300px;
+    height: 250px;
+}
+.w280{
+    width: 280px;
+}
+.rectangle-description{
+    height: 100px;
+}
+.box-rectangle-two{
+    height: 220px;
+}
+.box-rectangle-two-name{
+    height: 50px;
+}
+.rectangle-mini{
+    width: 170px;
+    margin: 5px;
+}
+.box-round{
+    height: 200px;
+}
+.round{
+    border-radius: 50%;
+}
+.round-description{
+    width: 500px;
+    align-items: flex-end;
+}
+.footer{
+    height: 100px;
+}
+.footer-inside{
+    width: 200px;
+}
+.three-point{
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 5px;
+}
+.final-text{
+    height: 20px;
+}
+.final-text h3{
+    color: blueviolet;
+}

@@ -1,0 +1,44 @@
+@media screen and (max-width: 480px){
+    .header-one{
+        display: none;
+    }
+    .header-two,.header-two-text,.box-rectangle{
+        width: auto;
+    }
+    .body-center,.box-square,.box-rectangle,.box-rectangle-two{
+        height: auto;
+    }
+    .header-two-box-case,.box-square{
+        width: 400px;
+    }
+    .header-two-box-case{
+        height: 350px;
+    }
+    .header-two-text h3,.header-two-text h4,.header-two-text h2{
+        color: #35d5f1;
+    }
+    .header-two-square{
+        background: #bdbaba;
+    }
+    .block-none{
+        height: 300px;
+    }
+    .box-square,.rectangle,.footer{
+        background: #35d5f1;
+    }
+    .square,.rectangle-mini,.three-point{
+        background: black;
+    }
+    .box-rectangle{
+        flex-direction: column;
+    }
+    .box-rectangle-name{
+        width: 480px;
+    }
+    .box-round{
+        display: none;
+    }
+    .final-text h3{
+        color: black;
+    }
+}
