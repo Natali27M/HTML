@@ -1,0 +1,45 @@
+@media screen and (max-width: 480px){
+
+    .header2,.header3,.box-round,.screen{
+        width: auto;
+    }
+    .header2,.header3,.box-square,.border,.box-round,.screen{
+        height: auto;
+    }
+    .header1{
+        display: none;
+    }
+    .header3{
+        background: #1ca7ab;
+    }
+    .start{
+        display: none;
+    }
+    .start-text{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .border{
+        width: 350px;
+        display: flex;
+        justify-content: center;
+    }
+    .border-header{
+        width: 200px;
+    }
+    .box-round{
+        flex-direction: column;
+    }
+    .screen-center{
+        background: #1ca7ab;
+        height: 300px;
+    }
+    .screen-border1{
+        display: none;
+    }
+    .screen-down{
+        display: none;
+    }
+
+}

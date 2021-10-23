@@ -1,4 +1,4 @@
-.body{
+.father{
     height: auto;
 }
 .display{
@@ -113,7 +113,7 @@
     height: 550px;
 }
 
-.screen-border{
+.screen-border,.screen-border1{
     height: 250px;
     border: 2px solid deepskyblue;
     border-radius: 20px;
