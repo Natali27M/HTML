@@ -1,0 +1,55 @@
+@media screen and (max-width: 400px){
+    .header{
+        height: 800px;
+    }
+    .menu{
+    display: none;
+    }
+    .logo{
+        margin-left: 28px;
+        margin-top: 20px;
+    }
+    .logo img{
+        width: 50px;
+    }
+    .header-top{
+        padding-top: 20px;
+    }
+    .nav-btn-mobile {
+        display: flex;
+        margin-top: 26px;
+        margin-right: 20px;
+    }
+    .header{
+        max-width: 400px;
+    }
+    .header-center-text{
+        width: 100%;
+        margin-left: 0;
+    }
+    .center-text-title>h3{
+        font-size: 30px;
+    }
+    .center-text-title>h2{
+        font-size: 40px;
+    }
+    .center-text-title>p{
+        font-size: 15px;
+    }
+    .header-center-text p::before,.header-center-text p::after{
+        display: none;
+    }
+    .header-card{
+        flex-direction: column;
+    }
+    .card{
+        width: 290px;
+        height: 276px;
+        top: 150px;
+    }
+    .card img{
+        width: 126px;
+        height: 104px;
+        margin-top: 10px;
+    }
+}
