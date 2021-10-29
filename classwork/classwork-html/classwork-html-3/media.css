@@ -1,0 +1,33 @@
+@media screen and (max-width: 400px){
+    .row-media{
+        display: flex;
+    }
+    .first-screen-right{
+        position: relative;
+    }
+    .first-screen-right::before{
+        content: "";
+        display: block;
+        width: 227px;
+        height: 7px;
+        background-color:  #EDEFF3;
+        margin-top: 20px;
+    }
+    .row-one,.row-two,.row-three{
+        display: none;
+    }
+    .second-screen-right{
+        width: 300px;
+        justify-content: flex-start;
+    }
+    .row-media-second{
+        display: flex;
+    }
+    .row-media-second>.second-screen-right{
+        margin-top: 50px;
+    }
+    .fourth-screen-right img,.fourth-screen-right{
+        border-bottom-left-radius: 0;
+    }
+
+}
